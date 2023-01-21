@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdk-11-api-docs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/StudentWork/IntroJava/Resources/jdk-11-api-docs.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
